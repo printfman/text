@@ -1,1 +1,1 @@
-s
+git clone http
